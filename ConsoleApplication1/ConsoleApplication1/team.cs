@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     {
         public team()
         {
-
+             string Team_Name = "that";
         }
     }
 }
