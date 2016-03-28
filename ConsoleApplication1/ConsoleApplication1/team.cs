@@ -7,5 +7,9 @@ namespace ConsoleApplication1
 {
     class team
     {
+        public team()
+        {
+
+        }
     }
 }
